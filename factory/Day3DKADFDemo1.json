@@ -1,0 +1,9 @@
+{
+	"name": "Day3DKADFDemo1",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e454998e-ca64-4283-9297-666589edd384",
+		"tenantId": "176559cf-3239-4c98-81af-0f951fc95b75"
+	}
+}
